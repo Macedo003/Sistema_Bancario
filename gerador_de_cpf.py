@@ -1,4 +1,19 @@
-cpf = '74682489070'
+import re
+import sys
+
+entrada = input('CPF: ')
+cpf = re.sub(
+    r'[^0-9]',
+    '',
+     entrada
+)
+
+entrada_e_sequencial = entrada == entrada[0] * len(entrada)
+if entrada_e_sequencial is True:
+    print('Voce enviou dados sequenciais')
+    sys.exit()
+
+
 nove_digitos = cpf[:9]
 cont_regre_1 = 10
 
