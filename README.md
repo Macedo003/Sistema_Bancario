@@ -2,8 +2,9 @@ Projeto inspirado em um sistema bancário, trabalhando os quatros pilares da POO
 
 Classe Contas:
 
-![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/a18758da-a692-4871-b48a-cdb9b1111b81) ![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/1a13f636-581a-4544-a5e7-b2e3d827ef9b)
-![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/adf106e5-a352-4dbf-b89d-3f50a0d7d5a8)
+![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/62bedf3d-f8bb-450d-b6ea-1aba673891c9)
+![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/7b90bee3-f079-4962-89f8-81aa45e6e1a7)
+![image](https://github.com/Macedo003/Sistema_Bancario/assets/124840692/cc4ccf67-c43a-4723-a676-dd8d03fba6c6)
 
 Classe Clientes:
 
