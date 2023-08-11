@@ -1,4 +1,4 @@
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 Projeto inspirado em um sistema bancário, trabalhando os quatros pilares da POO em python:
 
 Classe Contas:
